@@ -3,13 +3,6 @@
   <br>
 </h1>
 
-<h4 align="center">A powerful HRMS built with React, Node.Js, Express, MySQL ...</h4>
-<h6 align="center"><a href="https://mantzaris-thesis.herokuapp.com/">https://mantzaris-thesis.herokuapp.com</a></h6>
-
-<p align="center">
-<img src="https://github.com/vasilismantz/testgif2/blob/master/thesis-large.gif?raw=true">
-  <!-- <img src="https://user-images.githubusercontent.com/56836643/105662731-c36f6c80-5ed0-11eb-8a96-4ec846675756.gif"> -->
-</p>
 
 ## Description
 
